@@ -1,0 +1,1 @@
+# amharic-tigrigna-analyser
